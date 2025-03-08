@@ -20,7 +20,7 @@ console.log("action is loaded");
 // })
 $(document).foundation();
 
-scroller = window;//".off-canvas-content";//window
+const scroller = window;//".off-canvas-content";//window
 
 $(async function() {
     itsTimeForSomeAction();

@@ -762,7 +762,7 @@ ul.menu {
       height: 2rem;
       /* background: url("../images/businesstech_logo1.png") center top no-repeat; */
       background: url("../images/business-tech-white2-drop.png") center top no-repeat;
-      background-size: contain;
+      background-size: contain;}
     .marketing_site_footer .footer_brand .bt-address {
       font-family: Montserrat;
       font-style: normal;

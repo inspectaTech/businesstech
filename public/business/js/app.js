@@ -1,4 +1,5 @@
-require('../css/style.scss');// why did i take this out?
+// require('../css/style.scss');// why did i take this out?
+import '../css/style.scss';
 // require('action.j's);
 console.log("app.js is loaded");
 
