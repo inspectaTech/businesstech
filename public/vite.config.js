@@ -15,7 +15,11 @@ export default defineConfig({
     }),
     webfontDownload([
       'https://fonts.googleapis.com/css?family=Montserrat&display=swap',
-    ]),
+    ],{
+      injectAsStyleTag: false,
+      minifyCss: true,
+      cache: true,
+    }),
   ],
   base: "./"
 })
